@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-// 
+// recursion
 typedef struct node {
   int currentVal;
   // calls struct recursively
